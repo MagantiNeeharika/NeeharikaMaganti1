@@ -7,7 +7,7 @@
 - 📫 You can reach out to me on my **LinkedIn Account** or via **Email**.
 
 🛠️ **SKILLS and TOOLS**
-- **Tools  :** MS Excel (Pivot Tables, VLOOKUP, Charts), SQL (JOINS, subqueries, UNIONS), Tableau, R (tidyverse, ggplot2, rmarkdown), Google BigQuery, RStudio
+- **Tools  :** MS Excel (Pivot Tables, VLOOKUP, Charts), SQL (JOINS, subqueries, UNION), Tableau, R (tidyverse, ggplot2, rmarkdown), Google BigQuery, RStudio
 - **Skills :** Problem-solving, Critical Thinking, Communication, Presentation, Technical & Content Writing Skills.
 
 💻 **RELEVANT WORK SAMPLES**
