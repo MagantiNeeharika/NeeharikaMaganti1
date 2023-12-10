@@ -12,6 +12,11 @@
 
 💻 **RELEVANT WORK SAMPLES**
 - Google Capstone Project (Bellabeat Case Study)
+- [Starbucks Menu Data Analysis](https://github.com/NeeharikaMaganti1/Starbucks-Menu-Data-Analysis)
+
+📄 **CERTIFICATIONS**
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/2b880feb70721e21735b233ec7f30cf3)
+- [Accenture North America - Data Analytics and Visualization Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_5bPsviKL4wZQyJyoF_1694146852379_completion_certificate.pdf)
 
 📧 **CONNECT WITH ME**
 - [LinkedIn](https://www.linkedin.com/in/neeharikamaganti/)
