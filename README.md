@@ -13,6 +13,7 @@
 💻 **RELEVANT WORK SAMPLES**
 - Google Capstone Project (Bellabeat Case Study)
 - [Starbucks Menu Data Analysis](https://github.com/NeeharikaMaganti1/Starbucks-Menu-Data-Analysis)
+- [Social Buzz Data Analysis](https://github.com/NeeharikaMaganti1/Social-Buzz-Data-Analysis)
 
 📄 **CERTIFICATIONS**
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/2b880feb70721e21735b233ec7f30cf3)
