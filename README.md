@@ -1,17 +1,17 @@
 🙋‍♀️ **ABOUT ME**
 - 👋 Hi, I’m **Neeharika Maganti**.
-- 👀 I’m an **Aspiring Data Analyst** who is changing her career from Biomedical Engineering.
+- 👀 I’m an **Aspiring Data Analyst** who is transitioning her career with a diverse background in Biomedical Engineering and Software Engineering.
 - 🌱 I have recently completed the **Google Data Analytics Professional Certification**.
-- 🌱 I’m currently learning pursuing **Data Visualization with Tableau-UC Davis** Professional Certificate.
+- 🌱 I’m currently pursuing **Data Visualization with Tableau-UC Davis** Professional Certificate.
 - 💞️ I’m currently **seeking** a **Full-Time role** in the field of **Data Analytics**.
-- 📫 You can reach out to me on my **LinkedIn Account** or via **Email**.
+- 📫 You can reach out to me on my **[LinkedIn Account](https://www.linkedin.com/in/neeharikamaganti/)** or via **[Email](neeharika.maganti31@gmail.com)**.
 
 🛠️ **SKILLS and TOOLS**
 - **Tools  :** MS Excel (Pivot Tables, VLOOKUP, Charts), SQL (JOINS, subqueries, UNION), Tableau, R (tidyverse, ggplot2, rmarkdown), Google BigQuery, RStudio
 - **Skills :** Problem-solving, Critical Thinking, Communication, Presentation, Technical & Content Writing Skills.
 
 💻 **RELEVANT WORK SAMPLES**
-- Google Capstone Project (Bellabeat Case Study)
+- [Google Capstone Project (Bellabeat Case Study)](https://github.com/MagantiNeeharika/GoogleCapstoneProject)
 - [Starbucks Menu Data Analysis](https://github.com/NeeharikaMaganti1/Starbucks-Menu-Data-Analysis)
 - [Social Buzz Data Analysis](https://github.com/NeeharikaMaganti1/Social-Buzz-Data-Analysis)
 
