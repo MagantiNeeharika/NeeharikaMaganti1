@@ -7,11 +7,12 @@
 - 📫 You can reach out to me on my **[LinkedIn Account](https://www.linkedin.com/in/neeharikamaganti/)** or via **[Email](neeharika.maganti31@gmail.com)**.
 
 🛠️ **SKILLS and TOOLS**
-- **Tools  :** MS Excel (Pivot Tables, VLOOKUP, Charts), SQL (JOINS, subqueries, UNION), Tableau, R (tidyverse, ggplot2, rmarkdown), Google BigQuery, RStudio
+- **Tools  :** MS Excel (Pivot Tables, VLOOKUP, Charts), Google Sheets, SQL (JOINS, subqueries, UNION), Tableau, R (tidyverse, ggplot2, rmarkdown), Google BigQuery, RStudio
 - **Skills :** Problem-solving, Critical Thinking, Communication, Presentation, Technical & Content Writing Skills.
 
 💻 **RELEVANT WORK SAMPLES**
 - [Google Capstone Project (Bellabeat Case Study)](https://github.com/MagantiNeeharika/GoogleCapstoneProject)
+- [Work Log Data Analysis](https://github.com/MagantiNeeharika/7-Months-Work-Log)
 - [Starbucks Menu Data Analysis](https://github.com/NeeharikaMaganti1/Starbucks-Menu-Data-Analysis)
 - [Social Buzz Data Analysis](https://github.com/NeeharikaMaganti1/Social-Buzz-Data-Analysis)
 
