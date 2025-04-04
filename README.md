@@ -1,13 +1,14 @@
 🙋‍♀️ **ABOUT ME**
 - 👋 Hi, I’m **Neeharika Maganti**.
-- 👀 I’m an **Aspiring Data Analyst** who is transitioning her career with a diverse background in Biomedical Engineering and Software Engineering.
+- 👀 I’m an **Aspiring Data Scientist** who is transitioning her career with a diverse background in Biomedical Engineering and Software Engineering.
 - 🌱 I have recently completed the **Google Data Analytics Professional Certification**.
 - 🌱 I’m currently pursuing **Data Visualization with Tableau-UC Davis** Professional Certificate.
-- 💞️ I’m currently **seeking** a **Full-Time role** in the field of **Data Analytics**.
+- 👩🏻‍💻 I'm currently pursuing my **Masters in Data Science** at **University of the Cumberlands**.
+- 💞️ I’m currently **seeking** a **Full-Time role** in the field of **Data Analytics/ Data Science**.
 - 📫 You can reach out to me on my **[LinkedIn Account](https://www.linkedin.com/in/neeharikamaganti/)** or via **[Email](neeharika.maganti31@gmail.com)**.
 
 🛠️ **SKILLS and TOOLS**
-- **Tools  :** MS Excel (Pivot Tables, VLOOKUP, Charts), Google Sheets, SQL (JOINS, subqueries, UNION), Tableau, R (tidyverse, ggplot2, rmarkdown), Google BigQuery, RStudio
+- **Tools  :** MS Excel (Pivot Tables, VLOOKUP, Charts), Google Sheets, SQL (JOINS, subqueries, UNION), Tableau, R (tidyverse, ggplot2, rmarkdown), Google BigQuery, RStudio, Python, Visual Studio Code (VSC), Jupyter Notebook.
 - **Skills :** Problem-solving, Critical Thinking, Communication, Presentation, Technical & Content Writing Skills.
 
 💻 **RELEVANT WORK SAMPLES**
